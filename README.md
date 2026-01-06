@@ -1,95 +1,60 @@
-🌟 Health Care Portal
+# 🏥 Health Care Portal  
+### Smart • Secure • Simplified Healthcare Management
 
-A comprehensive healthcare management application designed to bridge the gap between patients and medical services. Featuring doctor discovery, health tracking, and user-friendly medical assistance. 
-GitHub
+<p align="center">
+  <img src="https://img.shields.io/github/stars/gitKeshav11/Health_Care_Portal?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/gitKeshav11/Health_Care_Portal?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/gitKeshav11/Health_Care_Portal?style=for-the-badge" />
+</p>
 
-🏥 Overview
+<p align="center">
+  💙 A modern healthcare web application that connects patients, doctors, and medical services seamlessly.
+</p>
 
-Health Care Portal is an intuitive, full-stack web application that empowers users to:
+---
 
-✔ Search and explore healthcare professionals
-✔ Track personal health data and metrics
-✔ Book appointments and access medical services
-✔ Receive health tips and personalized recommendations
+## ✨ About the Project
 
-This project aims to make healthcare resources easy to find and manage for patients, caregivers, and administrators.
+🚑 **Health Care Portal** is a full-stack healthcare management system designed to simplify and digitize medical services.  
+It provides an easy-to-use platform for patients to find doctors, book appointments, and manage their health data securely.
 
-🚀 Features
+---
 
-✨ User Registration & Login – Secure sign-up and authentication
-🩺 Doctor Discovery – Find doctors by specialization or location
-📅 Appointment Management – Book, view and manage appointments
-📊 Health Tracking Dashboard – Track vital health data
-📚 Medical Assistance & Tips – Helpful health resources for users
-🔧 RESTful Architecture – Clean, scalable backend services
+## 🚀 Features
 
-📁 Tech Stack
-Layer	Technology
-Backend	Java (Spring Boot)
-Frontend	(Add your frontend tech here, e.g., React / Angular / Thymeleaf)
-Build Tool	Maven
-Database	(Add DB — e.g., MySQL / PostgreSQL / MongoDB)
-Deployment	(Add deployment details — e.g., Heroku / AWS / Docker)
-📦 Installation
+🧑‍⚕️ **Doctor Management**  
+- View doctors by specialization  
+- Detailed doctor profiles  
 
-Clone the repository
+📅 **Appointment Booking**  
+- Online appointment scheduling  
+- Manage upcoming and past appointments  
 
-git clone https://github.com/gitKeshav11/Health_Care_Portal.git
-cd Health_Care_Portal
+🔐 **Authentication & Security**  
+- Secure user login & registration  
+- Role-based access control  
 
+📊 **Health Dashboard**  
+- Track user health data  
+- View medical records  
 
-Install dependencies & build
+📚 **Health Tips & Assistance**  
+- Preventive healthcare guidance  
+- User-friendly medical information  
 
-mvn clean install
+---
 
+## 🛠️ Tech Stack
 
-Run the application
+| Category | Technology |
+|--------|------------|
+| ⚙ Backend | Java, Spring Boot |
+| 🎨 Frontend | HTML, CSS, JavaScript |
+| 🗄 Database | MySQL |
+| 🔧 Build Tool | Maven |
+| ☁ Deployment | Localhost / Cloud Ready |
 
-mvn spring-boot:run
+---
 
+## 📂 Project Structure
 
-Open in browser
-
-http://localhost:8080
-
-
-(Update port/config if needed)
-
-🛠️ Screenshots
-
-Add screenshots of the UI here (optional — enhance with visuals)
-
-📌 Folder Structure
-Health_Care_Portal/
-├─ src/
-│  ├─ main/
-│  │  ├─ java/
-│  │  │  └─ ... application code ...
-│  │  └─ resources/
-│  │     └─ application.properties
-├─ .gitignore
-├─ pom.xml
-└─ README.md
-
-👨‍💻 Contributions
-
-Contributions are welcome and appreciated!
-To contribute:
-
-Fork the repo
-
-Create a feature branch (git checkout -b feature/xyz)
-
-Commit & push your changes
-
-Open a Pull Request
-
-📄 License
-
-Distributed under the MIT License.
-See LICENSE for more details.
-
-💬 Contact
-
-Created by @gitKeshav11
-📧 Add your email or social links here
