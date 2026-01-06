@@ -70,3 +70,24 @@ Health_Care_Portal/
 ├── pom.xml
 ├── .gitignore
 └── README.md
+
+---
+
+## ⚡ Getting Started
+
+Follow these simple steps to set up and run the project locally.
+
+### ✅ Prerequisites
+Make sure you have the following installed:
+- Java JDK 8 or above  
+- Maven  
+- Git  
+- MySQL (or your configured database)
+
+---
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/gitKeshav11/Health_Care_Portal.git
+cd Health_Care_Portal
+
