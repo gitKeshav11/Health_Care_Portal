@@ -16,29 +16,29 @@
 ## ✨ About the Project
 
 🚑 **Health Care Portal** is a full-stack healthcare management system designed to simplify and digitize medical services.  
-It provides an easy-to-use platform for patients to find doctors, book appointments, and manage their health data securely.
+It enables patients to find doctors, book appointments, and manage their health records securely and efficiently.
 
 ---
 
 ## 🚀 Features
 
-🧑‍⚕️ **Doctor Management**  
+🧑‍⚕️ **Doctor Management**
 - View doctors by specialization  
 - Detailed doctor profiles  
 
-📅 **Appointment Booking**  
+📅 **Appointment Booking**
 - Online appointment scheduling  
 - Manage upcoming and past appointments  
 
-🔐 **Authentication & Security**  
-- Secure user login & registration  
+🔐 **Authentication & Security**
+- Secure login & registration  
 - Role-based access control  
 
-📊 **Health Dashboard**  
-- Track user health data  
+📊 **Health Dashboard**
+- Track health data  
 - View medical records  
 
-📚 **Health Tips & Assistance**  
+📚 **Health Tips & Assistance**
 - Preventive healthcare guidance  
 - User-friendly medical information  
 
@@ -70,24 +70,3 @@ Health_Care_Portal/
 ├── pom.xml
 ├── .gitignore
 └── README.md
-
----
-
-## ⚡ Getting Started
-
-Follow these simple steps to set up and run the project locally.
-
-### ✅ Prerequisites
-Make sure you have the following installed:
-- Java JDK 8 or above  
-- Maven  
-- Git  
-- MySQL (or your configured database)
-
----
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/gitKeshav11/Health_Care_Portal.git
-cd Health_Care_Portal
-
