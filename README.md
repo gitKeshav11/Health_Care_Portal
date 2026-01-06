@@ -58,3 +58,15 @@ It provides an easy-to-use platform for patients to find doctors, book appointme
 
 ## 📂 Project Structure
 
+Health_Care_Portal/
+│
+├── src/
+│ ├── main/
+│ │ ├── java/
+│ │ └── resources/
+│ └── test/
+│
+├── pom.xml
+├── .gitignore
+└── README.md
+
